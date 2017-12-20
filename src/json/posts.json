@@ -1,0 +1,161 @@
+[{
+		"title": "NEWSome title",
+		"id": 1,
+		"description": "This is a book.",
+		"publishDate": "2011-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	},
+	{
+		"title": "Some far title1",
+		"id": 2,
+		"description": "This is a book1.",
+		"publishDate": "2012-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	},
+	{
+		"title": "Some bar title2",
+		"id": 3,
+		"description": "This is a book2.",
+		"publishDate": "2013-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	},
+	{
+		"title": "Some far title3",
+		"id": 4,
+		"description": "This is a book3.",
+		"publishDate": "2014-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	},
+	{
+		"title": "Awesome bar title",
+		"id": 5,
+		"description": "I will become a great developer!",
+		"publishDate": "2015-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	},
+	{
+		"title": "NEWSome fu title",
+		"id": 6,
+		"description": "This is a book.",
+		"publishDate": "2016-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	},
+	{
+		"title": "Some fu title1",
+		"id": 7,
+		"description": "This is a book1.",
+		"publishDate": "2017-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	},
+	{
+		"title": "Some title2",
+		"id": 8,
+		"description": "This is a book2.",
+		"publishDate": "2018-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	},
+	{
+		"title": "NEWSome title",
+		"id": 9,
+		"description": "This is a book.",
+		"publishDate": "2019-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	},
+	{
+		"title": "Some title1",
+		"id": 10,
+		"description": "This is a book1.",
+		"publishDate": "2011-9-11",
+		"comments": [{
+				"id": 1,
+				"text": "The first one better."
+			},
+			{
+				"id": 2,
+				"text": "Very informative comment"
+			}
+		],
+		"image": "/img/1.jpeg"
+	}
+]
